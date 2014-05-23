@@ -1,0 +1,17 @@
+{
+  "name": "olesia.brnv.ru",
+  "version": "0.0.0",
+  "authors": [
+    "Mikhail Baranov <mikhail.baranov@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "olesia.brnv.ru",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
